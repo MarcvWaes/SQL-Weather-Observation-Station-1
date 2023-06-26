@@ -7,6 +7,8 @@
 
 ![n1e5uock jot](https://github.com/MarcvWaes/SQL-Weather-Observation-Station-1/assets/120553175/74a6ff2b-ad8d-4d9f-9582-d4c1a3d168f4)
 
+- Where LAT_N is the northern latitude and LONG_W is the western longitude.
+
 # Solution:
 - SELECT CITY, STATE
 - FROM STATION
